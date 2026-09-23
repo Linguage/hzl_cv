@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <title>HZL CV — tilted portrait</title>
+  <defs><clipPath id="tile"><rect width="128" height="128" rx="24"/></clipPath></defs>
+  <g clip-path="url(#tile)">
+    <path fill="#211F22" d="M0 0H128V128H0Z"/>
+    <g transform="translate(5 -5) scale(1.05)">
+      <path fill="#2D2B31" d="M0 91Q14 84 30 91L65 113Q75 118 81 128H0Z"/>
+      <path fill="#8CADE4" d="M14 88Q26 107 49 113L45 128H3Q4 101 14 88Z"/>
+      <path fill="#DFA076" d="M15 92L42 112L25 123Z"/>
+      <path fill="#B5CDF5" d="M10 98L24 123L20 128Q15 116 5 122ZM25 123Q34 116 46 120L42 128L34 122L21 128Z"/>
+      <path fill="#343137" d="M10 53Q14 33 32 19L29 17L38 17Q41 13 45 11L44 14Q50 10 58 10L61 8L59 11Q69 8 75 11L79 11L76 13Q91 14 99 21L96 21L103 26L99 25Q108 33 109 43L112 49L109 47Q114 62 108 77L105 87L104 80L98 92L17 72Z"/>
+      <path fill="#252428" d="M14 53Q17 29 38 20Q49 13 65 15L61 17Q81 17 91 28L88 26Q104 43 104 66L99 84L89 92L18 72Z"/>
+      <path fill="#E9AB81" d="M89 85Q98 88 93 98Q90 103 81 105Z"/>
+      <path fill="#FAC594" d="M17 67Q24 53 29 49Q34 46 40 43L38 44L42 39L41 39L44 35L43 35Q46 32 50 32L49 34Q53 32 56 33L54 35L57 34L56 37L59 35L60 39L61 37L65 43L65 40L69 46L69 43L73 49L73 46Q77 50 82 52L82 50L86 53L85 50L90 54L90 52Q97 58 95 69Q91 94 82 104Q70 119 49 116Q9 108 10 77Q0 75 1 63Q2 54 9 52Q15 51 18 57L17 63Z"/>
+      <path fill="#E8A578" d="M11 58Q5 57 6 65Q6 71 12 72L15 65Q16 59 11 58Z"/>
+      <path d="M48 65L43 76M76 77L71 88" fill="none" stroke="#242326" stroke-width="7.5" stroke-linecap="round"/>
+      <g fill="#EAA17F">
+        <ellipse cx="30" cy="80" rx="5.7" ry="3.3" transform="rotate(24 30 80)"/>
+        <ellipse cx="72" cy="97" rx="5.3" ry="3.2" transform="rotate(24 72 97)"/>
+      </g>
+    </g>
+  </g>
+</svg>
