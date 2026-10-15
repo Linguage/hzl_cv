@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+html { background: #e9e8e4; color: #123e58; font: 14px/1.5 system-ui, sans-serif; }
+body { margin: 0; }
+#status { margin: 24px; text-align: center; }
+#pages { display: flex; flex-direction: column; align-items: center; gap: 16px; padding: 16px; min-width: 100%; width: max-content; }
+.pdf-page { position: relative; flex-shrink: 0; background: white; box-shadow: 0 1px 7px #123e5820; }
+.pdf-page canvas { display: block; }
+@media (max-width: 600px) { #pages { padding: 8px; gap: 8px; } }

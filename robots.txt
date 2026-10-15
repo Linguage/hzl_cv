@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://linguista.cn/hzl_cv/sitemap.xml
